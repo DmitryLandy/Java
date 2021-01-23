@@ -1,20 +1,20 @@
 # UMGC-Projects
 ---
-## CONTENTS
+### CONTENTS
 
-**HousePieces.java**
+### HousePieces.java
 
 This file imports java 2D graphic classes in order to create various
 shapes of different colors and combine them together to create a representation
 of a house. This class will be used in the "House.java" constructor to add it
 to the JFrame.
 
-**Multithreading.java**
+### Multithreading.java
 
 This program will create 3 separate threads and time them to run
 in consecutive order each iteration (1, 2, then 3).
 
-**DemandPaging.java**
+### DemandPaging.java
 
 his program perform various page-replacement algorithms. The user 
 is promted with a menu when starting the program that allows them to do the following:
