@@ -12,6 +12,15 @@ Additionally, property status can also be changed. After the program is exited,
 the transactions from the program as well as the final modified database are
 output in the IDE output window.
 
+### FileProcessing.java
+
+This program focused on performing seven functions regarding 
+file directories and file manipulation to include the following: selecting 
+directory, listing contents of the directory, listing contents of the 
+directories within the directory recursively, deleting files, viewing a file 
+in hexadecimal format, encrypting a file with a password using XOR, and 
+decrypting a file with a password using XOR.
+
 ### HousePieces.java
 
 This file imports java 2D graphic classes in order to create various
