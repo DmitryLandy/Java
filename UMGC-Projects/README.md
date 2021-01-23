@@ -1,6 +1,16 @@
 # UMGC-Projects
 ---
-### CONTENTS
+## CONTENTS
+
+### DatabaseOfProperties.java
+
+This program creates a database of property listings (Properties.txt) that include 
+the Parcel ID, property address, number of bedrooms, square footage, property price,
+and property status. This database is output in the IDE output window. A GUI is presented 
+to the user, who can find, insert, and delete properties in the database. 
+Additionally, property status can also be changed. After the program is exited,
+the transactions from the program as well as the final modified database are
+output in the IDE output window.
 
 ### HousePieces.java
 
