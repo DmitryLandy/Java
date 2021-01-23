@@ -18,8 +18,8 @@ in consecutive order each iteration (1, 2, then 3).
 
 his program perform various page-replacement algorithms. The user 
 is promted with a menu when starting the program that allows them to do the following:
-
-0-Exit the program
+```
+0 - Exit the program
 1 – Read Reference String
 2 – Generate Reference String
 3 – Display Current Reference String
@@ -27,7 +27,7 @@ is promted with a menu when starting the program that allows them to do the foll
 5 – Simulate OPT (optimal)
 6 – Simulate LRU (least recently used)
 7 – Simulate LFU (least frequently used)
-
+```
 This program requires an argument from the command line for setting the amount of 
 physical frames. After getting the to menu, the user will need to create a reference
 string manually or automatically, otherwise the simulations will give an error. 
