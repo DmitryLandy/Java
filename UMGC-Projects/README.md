@@ -16,7 +16,7 @@ in consecutive order each iteration (1, 2, then 3).
 
 ### DemandPaging.java
 
-his program perform various page-replacement algorithms. The user 
+This program perform various page-replacement algorithms. The user 
 is promted with a menu when starting the program that allows them to do the following:
 ```
 0 - Exit the program
